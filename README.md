@@ -34,7 +34,7 @@
 
 ## Как связаться ❓
 По вопросам работы бота, сообщениях о сбоях:\
-https://t.me/ItcProjects
+https://t.me/ScheduleSupport
 
 По личным вопросам или запросах на интеграцию:\
 https://t.me/ivan_abutkov
